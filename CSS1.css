@@ -1,0 +1,45 @@
+body{ color: brown;
+
+}
+
+h1{
+    color: red;
+}
+
+h3{
+    color: red;
+    font-style: italic;
+}
+
+.c1{
+    text-decoration:line-through;
+    font-weight: bold;
+}
+.c2{
+    background-color: yellow;
+    font-weight: bold;
+}
+ .c3{
+    text-decoration: underline;
+    font-style: italic;
+ }
+.c4{
+    letter-spacing: 2px;
+}
+
+.c5{
+    background-color: yellow;
+    font-weight: bold;
+}
+.c6{
+    text-decoration:none;
+}
+
+.c7{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:none;
+
+ }
